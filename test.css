@@ -82,7 +82,7 @@ main {
 .box {
   display: block;
   width: 90%;
-  margin: 0 5%;
+  margin: 10px 5%;
 }
 .img {
   height: 150;
